@@ -14,4 +14,4 @@ If you want to see the viz of this project check here:
 <br>
 https://public.tableau.com/app/profile/ruimandiaz
 
-![Result Visualization](https://github.com/RuimanDiaz/Jobs-Jobs-Jobs/blob/main/jobs.png)
+![Result Visualization](https://github.com/RuimanDiaz/Jobs-Jobs-Jobs/blob/main/Jobs.png)
