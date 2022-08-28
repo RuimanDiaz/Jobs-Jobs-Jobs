@@ -15,6 +15,6 @@ Worldwideperperson2.csv is the Result of the analysis.
 If you want to see the viz of this project check here:
 <br>
 <br>
-https://public.tableau.com/app/profile/ruimandiaz
+https://public.tableau.com/app/profile/ruimandiazsuarez
 
 ![Result Visualization](https://github.com/RuimanDiaz/Jobs-Jobs-Jobs/blob/main/Jobs.png)
